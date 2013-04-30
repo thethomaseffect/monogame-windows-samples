@@ -3,9 +3,9 @@ Monogame Windows Samples
 
 # About
 
-This repository holds ports I've made of projects at CartBlanche/MonoGame-Samples removing non-windows code as well as upgrading projects to VS2012. While an excellent source of code sample, many of the projects available simply wouldn't load for me using VS2012. This repo aims to provide the simplest way for Windows and VS2012 to run the code samples.
+This repository holds ports I've made of projects at [CartBlanche/MonoGame-Samples](https://github.com/CartBlanche/MonoGame-Samples) removing non-windows code as well as upgrading projects to VS2012. While an excellent source of code sample, many of the projects available simply wouldn't load for me using VS2012. This repo aims to provide the simplest way for Windows and VS2012 to run the code samples.
 
-I've also made a few style changes and minor optimizations to the code (ie. readonly and const used where possible, epsilons used for floating point operations). Since these are mostly done at the same time as removing code specific to other platforms, it's unlikely they can easily be pushed back to CartBlanche/MonoGame-Samples.
+I've also made a few style changes and minor optimizations to the code (ie. readonly and const used where possible, epsilons used for floating point operations). Since these are mostly done at the same time as removing code specific to other platforms, it's unlikely they can easily be pushed back to [CartBlanche/MonoGame-Samples](https://github.com/CartBlanche/MonoGame-Samples.
 
 # Usage
 
