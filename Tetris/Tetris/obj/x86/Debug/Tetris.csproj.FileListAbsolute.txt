@@ -1,0 +1,9 @@
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\SDL.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\Tetris.exe
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\Tetris.pdb
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\users\thomas\documents\visual studio 2012\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
