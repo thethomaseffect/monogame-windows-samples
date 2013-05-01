@@ -13,6 +13,7 @@ Beginners should do the following:
 
 * Install Visual Studio 2012 (Free through Dreamspark for students)
 * Install the latest version of Monogame, available [here](http://www.monogame.net/downloads)
+* Install the OpenAL cross-platform audio API for sound available [here](http://connect.creativelabs.com/openal/Downloads/oalinst.zip) (Otherwise you'll get a DLLNotFound exception when you try to run the sample).
 * Clone this repo. If you're new to Github, you should download the client and hit the "Clone in Windows" button at the top of the page.
 
 Hopefully, you can now open and run the samples. If you need any help feel free to contact me at [My-Github-Username]@gmail.com.
